@@ -1,0 +1,7 @@
+n1 = float(input("Introduce un numero: ") )
+if (n1 == 8):
+    print ("es igualque 8")
+if (n1 < 8):
+    print ("es menor que 8")
+if (n1 >= 8):
+    print ("es mayor o igual que 8")
